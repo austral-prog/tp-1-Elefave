@@ -13,7 +13,7 @@ print("valor de i1:") # valor de i1:
 print(i1) # 3
 print("valor de i2:") # valor de i2: 
 print(i2) # 5
-print("valor de i3:") # valor de i3
+print("valor de i3:") # valor de i3:
 print(i3) # 8
 print(i1 + i2 + i3) # 16
 
@@ -33,15 +33,15 @@ f3 = f1 + f2
 i3 = int(f3) 
 print("entero i3:") # entero i3:
 print(i3) # 9
-print("variable f3:") # variable f3
+print("variable f3:") # variable f3:
 print(f3) # 9.5
 f2 += i1
 print("el valor de") # el valor de
-print(f2) # 10
-print("más") # mas
+print(f2) # 13
+print("más") # más
 print(f1) # -.5
 print("es:") # es:
-print(f2 + f1) # 9.5
+print(f2 + f1) # 12.5
 
 ```
 
